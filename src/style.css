@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(rgb(249, 255, 218), rgb(166, 234, 255));
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding-top: 100px;
+}
+
+* {
+  font-family: 'Courier New', Courier, monospace !important;
+}
